@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 1rem;
+  padding: 0;
+  color: rgb(15, 15, 15);
+}
+
+h3 {
+  margin-bottom: 0.5rem;
+  font-size: 20px;
+}
+
+a {
+  text-decoration-style: solid;
+  color: rgb(15, 15, 15);
+}
+
+#About {
+  margin-top: 3rem;
+  padding-left: 1rem;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#About h1 {
+  font-size: 36px;
+  margin-bottom: 1rem;
+}
+
+#skills {
+  margin-top: 3rem;
+  padding-left: 1rem;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skills-list span {
+  display: inline-block;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px;
+}
