@@ -2,7 +2,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 1rem;
   padding: 0;
-  color: rgb(15, 15, 15);
+  background-color: #f1e8fc;
+  color: #17052e;
 }
 
 h3 {
@@ -12,7 +13,7 @@ h3 {
 
 a {
   text-decoration-style: solid;
-  color: rgb(15, 15, 15);
+  color: #17052e;
 }
 
 #About {
@@ -39,8 +40,20 @@ a {
 
 .skills-list span {
   display: inline-block;
-  background-color: #f0f0f0;
+  background-color: #e3d1fa;
   border-radius: 5px;
   padding: 5px 10px;
   margin: 5px;
+}
+
+.saintsinnerUI {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.saintsinnerUI img {
+  max-width: 800px;
+  height: auto;
+  display: flex;
+  margin: 1rem auto;
 }
